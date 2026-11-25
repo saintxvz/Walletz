@@ -23,13 +23,13 @@
 
 <br/>
 
-<p>
-  <img src="images/home.jpg" width="240" alt="" />
-  &nbsp;&nbsp;
-  <img src="images/needs.jpg" width="240" alt="" />
-  &nbsp;&nbsp;
-  <img src="images/pockets.jpg" width="240" alt="" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="images/home.jpg" width="240" alt="" /></td>
+    <td align="center"><img src="images/needs.jpg" width="240" alt="" /></td>
+    <td align="center"><img src="images/pockets.jpg" width="240" alt="" /></td>
+  </tr>
+</table>
 
 ---
 
