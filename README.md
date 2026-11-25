@@ -24,11 +24,11 @@
 <br/>
 
 <p>
-  <img src="images/home.png" width="240" alt="Walletz Home Screen" />
+  <img src="images/home.png" width="240" alt="" />
   &nbsp;&nbsp;
-  <img src="images/summary.png" width="240" alt="Category Summary" />
+  <img src="images/needs.png" width="240" alt="" />
   &nbsp;&nbsp;
-  <img src="images/pockets.png" width="240" alt="Pocket Management" />
+  <img src="images/pockets.png" width="240" alt="" />
 </p>
 
 ---
