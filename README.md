@@ -38,7 +38,7 @@
 | Area | Details |
 | :--- | :--- |
 | **Multi-Pocket Ledger** | Manual tracking across pockets with cumulative, current-month, or specific-date filters. Starts with **Cash**, **ShopeePay**, and **OVO**; add, rename, reorder, and pick an icon/color for your own pockets (e.g. GoPay, BCA, Savings). Deleting a pocket moves its transactions to the first remaining pocket. |
-| **Monochrome OLED UI** | Pitch-black `#000000` background, tabular odometer digits, tap-to-mask balances, and two-stage scroll-collapsing header. |
+| **Monochrome OLED UI** | Deep OLED dark background, tabular odometer digits, tap-to-mask balances, and two-stage scroll-collapsing header. |
 | **Transfers & Recurring** | Pocket-to-pocket transfers, manual balance adjustments, and `Daily` / `Weekly` / `Monthly` recurring schedules. |
 | **Needs & Swipe Actions** | Planned expense checklist that auto-logs when checked off, plus swipe-to-delete with confirmation and undo. |
 | **Category Summary** | Donut chart and per-category breakdown excluding internal transfers and balance adjustments. |
@@ -53,6 +53,6 @@ Blacks out the Recent Apps preview (Android 13+ and on pause) and excludes the d
 
 ---
 
-<sub>All Rights Reserved · Built with Kotlin, Jetpack Compose & Room</sub>
+<sub>All Rights Reserved · Built with Kotlin, Jetpack Compose & Room · Typeface: <a href="third_party/Inter-LICENSE.txt">Inter (OFL-1.1)</a></sub>
 
 </div>
