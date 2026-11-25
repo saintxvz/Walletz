@@ -24,11 +24,11 @@
 <br/>
 
 <p>
-  <img src="images/home.png" width="240" alt="" />
+  <img src="images/home.jpg" width="240" alt="" />
   &nbsp;&nbsp;
-  <img src="images/needs.png" width="240" alt="" />
+  <img src="images/needs.jpg" width="240" alt="" />
   &nbsp;&nbsp;
-  <img src="images/pockets.png" width="240" alt="" />
+  <img src="images/pockets.jpg" width="240" alt="" />
 </p>
 
 ---
