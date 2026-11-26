@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Android-7.0%2B%20(API%2024--35)-000000?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+" />
   <img src="https://img.shields.io/badge/Kotlin-2.0.21-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin 2.0.21" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-000000?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Room-SQLite%20v6-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room SQLite v6" />
+  <img src="https://img.shields.io/badge/Room-2.6.1-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room 2.6.1" />
   <img src="https://img.shields.io/badge/Network-Offline-000000?style=for-the-badge&logo=airplane&logoColor=white" alt="Offline" />
   <img src="https://img.shields.io/badge/License-All_Rights_Reserved-000000?style=for-the-badge&logo=shield&logoColor=white" alt="All Rights Reserved" />
 </p>
