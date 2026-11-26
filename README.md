@@ -37,12 +37,12 @@
 
 | Area | Details |
 | :--- | :--- |
-| **Multi-Pocket Ledger** | Manual tracking across pockets with cumulative, current-month, or specific-date filters. Starts with **Cash**, **ShopeePay**, and **OVO**; add, rename, reorder, and pick an icon/color for your own pockets (e.g. GoPay, BCA, Savings). Deleting a pocket moves its transactions to the first remaining pocket. |
+| **Multi-Pocket Ledger** | Manual tracking across pockets with cumulative, current-month, or specific-date filters. Add, rename, reorder, and pick an icon/color for your own pockets (e.g. GoPay, BCA, Savings). Deleting a pocket moves its transactions to the first remaining pocket. |
 | **Monochrome OLED UI** | Deep OLED dark background, tabular odometer digits, tap-to-mask balances, and two-stage scroll-collapsing header. |
 | **Transfers & Adjustments** | Pocket-to-pocket transfers and manual balance adjustments with automatic reconciliation entries. |
 | **Needs & Swipe Actions** | Planned expense checklist that auto-logs when checked off, plus swipe-to-delete with confirmation and undo. |
 | **Category Summary** | Donut chart and per-category breakdown excluding internal transfers and balance adjustments. |
-| **CSV Export & Import** | Multi-section UTF-8 CSV backup with formula sanitization and automatic local pre-import snapshots. |
+| **CSV Export & Import** | Multi-section UTF-8 CSV backup with formula sanitization and automatic local pre-import snapshots, also .DOCX export. |
 
 ---
 
