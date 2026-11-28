@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://github.com/saintxvz/Walletz/releases/tag/v.1.2">
-    <img src="https://img.shields.io/badge/Download_APK-v1.2.0_Release-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="Download APK" />
+    <img src="https://img.shields.io/badge/Download_APK-v1.2.0_Release-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="Download" />
   </a>
 </p>
 
